@@ -1,4 +1,4 @@
-## Bank Loan Analysis – Power BI Dashboard
+## Bank Loan Portfolio Health & Risk Monitoring Report
 
 ## 📊 Project Overview
 Business Problem: A bank's loan operations team had no real-time summary of portfolio health — unable to track bad loan exposure, monitor funded vs received amounts, or assess risk by loan status, grade, and purpose on a month-over-month basis.
