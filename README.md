@@ -27,9 +27,8 @@ Grand Total funded: $21.0M vs received $21.0M — near parity, indicating health
 DTI of 14.2% avg suggests borrowers have manageable debt loads overall
 
 ## Impact: 
-Enabled leadership to monitor loan portfolio health in real time; bad loan flag of $6M prompted risk review process; MTD/MOM tracking helped the credit team set monthly targets and course-correct faster.
-Dashboard Output: 3-page Power BI report (Summary, Overview, Details) with KPI cards, good/bad loan donut charts, loan status table, and filters for State, Grade, and Purpose.
+Enabled leadership to monitor loan portfolio health in real time; bad loan flag of $6M prompted risk review process; MTD/MOM tracking helped the credit team set monthly targets and course-correct faster
 
-## Dashboard Output: 
-Power BI single-page dashboard with KPI cards, sessions timeline, device donut chart, top pages table, UI element treemap, and 7-country filter toggle
+## Dashboard Output: 3-page Power BI report (Summary, Overview, Details) with KPI cards, good/bad loan donut charts, loan status table, and filters for State, Grade, and Purpose.
+
 
